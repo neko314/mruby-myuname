@@ -1,0 +1,7 @@
+name: mruby-uname
+description: Uname class
+author: keiko
+website: https://github.com/cda/mruby-uname
+protocol: git
+repository: https://github.com/cda/mruby-uname.git
+license: MIT
